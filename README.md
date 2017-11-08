@@ -11,6 +11,9 @@ Hey there! My name is Thierry and I'm just a simple geek who love to code and bu
 
 ## :computer: Skills
 
+| Domain           | Technology/Framework/Librairies|
+|-------------------|-------------|
+| `Backend`         | NodeJs, Express, MongoDB, GraphQL, Apollo-server       |
 
 
 ## :link: Links
