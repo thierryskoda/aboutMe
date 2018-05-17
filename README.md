@@ -3,7 +3,6 @@
 Hey there! My name is Thierry and I'm just a simple geek who love to code and build new stuff. Learning new things is my passion.
 
 ## :rocket: Experience
-test
 
 - Co-Founder/CTO @Gameday (YC S17) since November 2016
 - Co-Founder/CTO @Whiteframe for 1 year
